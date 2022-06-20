@@ -62,6 +62,9 @@ enum GitHubEnterpriseVersion {
   GHE_30
   GHE_31
   GHE_32
+  GHE_33
+  GHE_34
+  GHE_35
 }
 
 enum ResponseCode {
